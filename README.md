@@ -199,18 +199,25 @@ LumiCare creates one continuous experience connecting:
 
 ### 📱 Prototype Preview
 
-**[Insert your 4–8 key screenshots here]**
+<div align="center">
 
-For example:
+<img width="150" alt="Screenshot 2026-09-12 133543" src="https://github.com/user-attachments/assets/1f913da5-3b00-46d6-9d56-5ab187a8b206" />
+<img width="150" alt="Screenshot 2026-09-12 133628" src="https://github.com/user-attachments/assets/daab2ebe-c7ad-4a65-bfbe-9cd09a1468bb" />
+<img width="150" alt="Screenshot 2026-09-12 133715" src="https://github.com/user-attachments/assets/25d41e80-1258-4a0e-9780-5a207033e4bd" />
 
-```text
-[ Home ]     [ Talk ]     [ Load ]
+<br>
 
-[ Pressure ] [ Rebalance ] [ Recovery ]
+<img width="150" alt="Screenshot 2026-09-12 133742" src="https://github.com/user-attachments/assets/7867c98c-ab37-45af-9f38-18c4fcb27e28" />
+<img width="150" alt="Screenshot 2026-09-12 133833" src="https://github.com/user-attachments/assets/68e7b166-f99a-491a-a082-9eaf17e8c152" />
+<img width="150" alt="Screenshot 2026-09-12 133907" src="https://github.com/user-attachments/assets/e4f87fc7-7578-4c62-9f05-acf4e4323e53" />
 
-[ Rewards ]  [ Challenge ] [ Heart Rate ]
-```
+<br>
 
+<img width="150" alt="Screenshot 2026-09-12 133940" src="https://github.com/user-attachments/assets/28ece9c6-51ee-4853-abe8-daf1b1d0502d" />
+<img width="150" alt="Screenshot 2026-09-12 134013" src="https://github.com/user-attachments/assets/3e0fb7a5-4f92-46e9-ac3f-e46e61fee7a5" />
+<img width="150" alt="Screenshot 2026-09-12 134054" src="https://github.com/user-attachments/assets/840eb7f1-145d-4db6-a6f5-12e21776a8cf" />
+
+</div>
 **🎨 UI Prototype:** [Public Link](#)
 
 ---
