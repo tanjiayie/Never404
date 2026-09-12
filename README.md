@@ -200,6 +200,7 @@ LumiCare creates one continuous experience connecting:
 ### 📱 Prototype Preview
 
 <div align="center">
+<img width="680" height="1080" alt="photo_2026-09-12 14 11 55" src="https://github.com/user-attachments/assets/8ab59d7b-7150-4a3d-9031-d3d79efd6f35" />
 
 <img width="150" alt="Screenshot 2026-09-12 133543" src="https://github.com/user-attachments/assets/1f913da5-3b00-46d6-9d56-5ab187a8b206" />
 <img width="150" alt="Screenshot 2026-09-12 133628" src="https://github.com/user-attachments/assets/daab2ebe-c7ad-4a65-bfbe-9cd09a1468bb" />
