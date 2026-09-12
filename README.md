@@ -239,7 +239,7 @@ Our team explored different approaches before arriving at the final concept.
 We dropped these ideas because they either focused too narrowly on productivity or wellbeing, or their useful functions could already be incorporated into LumiCare's main workflow.
 
 ### 🧩 Ideation Board
-<img width="645" height="2094" alt="codenection drawio" src="https://github.com/user-attachments/assets/6b48a53a-e0e5-48c4-8c12-7c77488480ca" />
+<img width="400" alt="codenection drawio" src="https://github.com/user-attachments/assets/6b48a53a-e0e5-48c4-8c12-7c77488480ca" />
 
 ---
 
