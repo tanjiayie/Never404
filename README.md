@@ -7,7 +7,7 @@
 
 > **LumiCare helps university students understand their workload, identify pressure points, rebalance responsibilities, and recover — all through an AI-powered companion.**
 
-[🎥 Video Demo](https://youtu.be/evvyGGolXU4) · [📊 Presentation Slides](https://canva.link/fw0zckle732nkco) · [🎨 UI Prototype](https://www.figma.com/make/73fj3KXzjOm8IV9xxuBLbA/LumiCare-Prototype?p=f&t=zON7HJ2JKNlZxFzz-0&fullscreen=1)
+[🎥 Video Demo](https://youtu.be/evvyGGolXU4) · [📊 Presentation Slides](https://canva.link/fw0zckle732nkco) · [🎨 UI Prototype](https://www.figma.com/make/73fj3KXzjOm8IV9xxuBLbA/LumiCare-Prototype?p=f&t=zON7HJ2JKNlZxFzz-0&fullscreen=1) · [📖 Ideation Report](https://docs.google.com/document/d/1ptkWBQn4dsMJf_x0OJxOYdra55MlAqZRbJr0JEA5aJ8/edit?usp=sharing)
 
 ---
 
@@ -200,26 +200,31 @@ LumiCare creates one continuous experience connecting:
 ### 📱 Prototype Preview
 
 <div align="center">
-<img width="680" height="1080" alt="photo_2026-09-12 14 11 55" src="https://github.com/user-attachments/assets/8ab59d7b-7150-4a3d-9031-d3d79efd6f35" />
 
-<img width="150" alt="Screenshot 2026-09-12 133543" src="https://github.com/user-attachments/assets/1f913da5-3b00-46d6-9d56-5ab187a8b206" />
-<img width="150" alt="Screenshot 2026-09-12 133628" src="https://github.com/user-attachments/assets/daab2ebe-c7ad-4a65-bfbe-9cd09a1468bb" />
-<img width="150" alt="Screenshot 2026-09-12 133715" src="https://github.com/user-attachments/assets/25d41e80-1258-4a0e-9780-5a207033e4bd" />
+<img width="680" alt="LumiCare Prototype Overview" src="https://github.com/user-attachments/assets/8ab59d7b-7150-4a3d-9031-d3d79efd6f35" />
 
-<br>
+<br><br>
 
-<img width="150" alt="Screenshot 2026-09-12 133742" src="https://github.com/user-attachments/assets/7867c98c-ab37-45af-9f38-18c4fcb27e28" />
-<img width="150" alt="Screenshot 2026-09-12 133833" src="https://github.com/user-attachments/assets/68e7b166-f99a-491a-a082-9eaf17e8c152" />
+<img width="180" alt="Home Screen" src="https://github.com/user-attachments/assets/1f913da5-3b00-46d6-9d56-5ab187a8b206" />
+<img width="180" alt="Talk Screen" src="https://github.com/user-attachments/assets/daab2ebe-c7ad-4a65-bfbe-9cd09a1468bb" />
+<img width="180" alt="Balance Screen" src="https://github.com/user-attachments/assets/25d41e80-1258-4a0e-9780-5a207033e4bd" />
+
+<br><br>
+
+<img width="180" alt="Care Screen" src="https://github.com/user-attachments/assets/7867c98c-ab37-45af-9f38-18c4fcb27e28" />
+<img width="180" alt="Me Screen" src="https://github.com/user-attachments/assets/68e7b166-f99a-491a-a082-9eaf17e8c152" />
 <img width="150" alt="Screenshot 2026-09-12 133907" src="https://github.com/user-attachments/assets/e4f87fc7-7578-4c62-9f05-acf4e4323e53" />
+<br><br>
 
-<br>
-
-<img width="150" alt="Screenshot 2026-09-12 133940" src="https://github.com/user-attachments/assets/28ece9c6-51ee-4853-abe8-daf1b1d0502d" />
-<img width="150" alt="Screenshot 2026-09-12 134013" src="https://github.com/user-attachments/assets/3e0fb7a5-4f92-46e9-ac3f-e46e61fee7a5" />
-<img width="150" alt="Screenshot 2026-09-12 134054" src="https://github.com/user-attachments/assets/840eb7f1-145d-4db6-a6f5-12e21776a8cf" />
+<img width="180" alt="Recovery Screen" src="https://github.com/user-attachments/assets/28ece9c6-51ee-4853-abe8-daf1b1d0502d" />
+<img width="180" alt="Rewards Screen" src="https://github.com/user-attachments/assets/3e0fb7a5-4f92-46e9-ac3f-e46e61fee7a5" />
+<img width="180" alt="Progress Screen" src="https://github.com/user-attachments/assets/840eb7f1-145d-4db6-a6f5-12e21776a8cf" />
 
 </div>
-[🎨 UI Prototype:](https://www.figma.com/make/73fj3KXzjOm8IV9xxuBLbA/LumiCare-Prototype?p=f&t=zON7HJ2JKNlZxFzz-0&fullscreen=1)
+
+**🎨 UI Prototype:**
+[Figma – LumiCare Prototype](https://www.figma.com/make/73fj3KXzjOm8IV9xxuBLbA/LumiCare-Prototype?p=f&t=zON7HJ2JKNlZxFzz-0&fullscreen=1)
+
 
 
 ---
