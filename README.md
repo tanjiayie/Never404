@@ -7,7 +7,7 @@
 
 > **LumiCare helps university students understand their workload, identify pressure points, rebalance responsibilities, and recover — all through an AI-powered companion.**
 
-[🎥 Video Demo](#) · [📊 Presentation Slides](#) · [🎨 UI Prototype](#)
+[🎥 Video Demo](https://youtu.be/evvyGGolXU4) · [📊 Presentation Slides](https://canva.link/fw0zckle732nkco) · [🎨 UI Prototype](https://www.figma.com/make/73fj3KXzjOm8IV9xxuBLbA/LumiCare-Prototype?p=f&t=zON7HJ2JKNlZxFzz-0&fullscreen=1)
 
 ---
 
@@ -219,7 +219,8 @@ LumiCare creates one continuous experience connecting:
 <img width="150" alt="Screenshot 2026-09-12 134054" src="https://github.com/user-attachments/assets/840eb7f1-145d-4db6-a6f5-12e21776a8cf" />
 
 </div>
-**🎨 UI Prototype:** [Public Link](#)
+[🎨 UI Prototype:](https://www.figma.com/make/73fj3KXzjOm8IV9xxuBLbA/LumiCare-Prototype?p=f&t=zON7HJ2JKNlZxFzz-0&fullscreen=1)
+
 
 ---
 
