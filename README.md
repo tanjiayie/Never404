@@ -160,75 +160,6 @@ Lumi provides gentle reminders that encourage users to return for daily reflecti
 
 ---
 
-# 🌟 What Makes LumiCare Different?
-
-LumiCare does not claim that every individual feature is completely new.
-
-Our innovation lies in **how the features work together**.
-
-| Traditional Approach   | LumiCare                                       |
-| ---------------------- | ---------------------------------------------- |
-| 📝 Track tasks         | 🧠 Understand workload                         |
-| 😊 Track mood          | 🔗 Connect emotions with responsibilities      |
-| ✅ Complete more tasks  | ⚖️ Rebalance workload                          |
-| 🧘 Separate self-care  | 🌿 Integrate recovery into workload management |
-| 🎮 Reward productivity | ✨ Reward recovery                              |
-| 🐾 Decorative mascot   | 🐻 Companion reflects user progress            |
-
-### Our key idea:
-
-> **Productivity should not come at the cost of recovery.**
-
-LumiCare creates one continuous experience connecting:
-
-**Workload → Pressure → Rebalancing → Recovery → Progress**
-
----
-
-# 🎨 User Experience
-
-### Main Screens
-
-| Screen         | Purpose                                         |
-| -------------- | ----------------------------------------------- |
-| 🏠 **Home**    | See Lumi and your current state                 |
-| 💬 **Talk**    | Share your day naturally                        |
-| ⚖️ **Balance** | Understand and rebalance workload               |
-| 🌿 **Care**    | Complete recovery activities                    |
-| 👤 **Me**      | View progress, rewards and personal information |
-
-### 📱 Prototype Preview
-
-<div align="center">
-
-<img width="680" alt="LumiCare Prototype Overview" src="https://github.com/user-attachments/assets/8ab59d7b-7150-4a3d-9031-d3d79efd6f35" />
-
-<br><br>
-
-<img width="180" alt="Home Screen" src="https://github.com/user-attachments/assets/1f913da5-3b00-46d6-9d56-5ab187a8b206" />
-<img width="180" alt="Talk Screen" src="https://github.com/user-attachments/assets/daab2ebe-c7ad-4a65-bfbe-9cd09a1468bb" />
-<img width="180" alt="Balance Screen" src="https://github.com/user-attachments/assets/25d41e80-1258-4a0e-9780-5a207033e4bd" />
-
-<br><br>
-
-<img width="180" alt="Care Screen" src="https://github.com/user-attachments/assets/7867c98c-ab37-45af-9f38-18c4fcb27e28" />
-<img width="180" alt="Me Screen" src="https://github.com/user-attachments/assets/68e7b166-f99a-491a-a082-9eaf17e8c152" />
-<img width="150" alt="Screenshot 2026-09-12 133907" src="https://github.com/user-attachments/assets/e4f87fc7-7578-4c62-9f05-acf4e4323e53" />
-<br><br>
-
-<img width="180" alt="Recovery Screen" src="https://github.com/user-attachments/assets/28ece9c6-51ee-4853-abe8-daf1b1d0502d" />
-<img width="180" alt="Rewards Screen" src="https://github.com/user-attachments/assets/3e0fb7a5-4f92-46e9-ac3f-e46e61fee7a5" />
-<img width="180" alt="Progress Screen" src="https://github.com/user-attachments/assets/840eb7f1-145d-4db6-a6f5-12e21776a8cf" />
-
-</div>
-
-**🎨 UI Prototype:**
-[Figma – LumiCare Prototype](https://www.figma.com/make/73fj3KXzjOm8IV9xxuBLbA/LumiCare-Prototype?p=f&t=zON7HJ2JKNlZxFzz-0&fullscreen=1)
-
-
-
----
-
 # 🧠 Ideation
 
 Our team explored different approaches before arriving at the final concept.
@@ -272,6 +203,78 @@ The feedback helped us simplify the main user experience while keeping LumiCare'
 
 ---
 
+
+### 📱 Prototype Preview
+
+<div align="center">
+
+<img width="680" alt="LumiCare Prototype Overview" src="https://github.com/user-attachments/assets/8ab59d7b-7150-4a3d-9031-d3d79efd6f35" />
+
+<br><br>
+
+<img width="180" alt="Home Screen" src="https://github.com/user-attachments/assets/1f913da5-3b00-46d6-9d56-5ab187a8b206" />
+<img width="180" alt="Talk Screen" src="https://github.com/user-attachments/assets/daab2ebe-c7ad-4a65-bfbe-9cd09a1468bb" />
+<img width="180" alt="Balance Screen" src="https://github.com/user-attachments/assets/25d41e80-1258-4a0e-9780-5a207033e4bd" />
+
+<br><br>
+
+<img width="180" alt="Care Screen" src="https://github.com/user-attachments/assets/7867c98c-ab37-45af-9f38-18c4fcb27e28" />
+<img width="180" alt="Me Screen" src="https://github.com/user-attachments/assets/68e7b166-f99a-491a-a082-9eaf17e8c152" />
+<img width="150" alt="Screenshot 2026-09-12 133907" src="https://github.com/user-attachments/assets/e4f87fc7-7578-4c62-9f05-acf4e4323e53" />
+<br><br>
+
+<img width="180" alt="Recovery Screen" src="https://github.com/user-attachments/assets/28ece9c6-51ee-4853-abe8-daf1b1d0502d" />
+<img width="180" alt="Rewards Screen" src="https://github.com/user-attachments/assets/3e0fb7a5-4f92-46e9-ac3f-e46e61fee7a5" />
+<img width="180" alt="Progress Screen" src="https://github.com/user-attachments/assets/840eb7f1-145d-4db6-a6f5-12e21776a8cf" />
+
+</div>
+
+**🎨 UI Prototype:**
+[Figma – LumiCare Prototype](https://www.figma.com/make/73fj3KXzjOm8IV9xxuBLbA/LumiCare-Prototype?p=f&t=zON7HJ2JKNlZxFzz-0&fullscreen=1)
+
+
+
+---
+# 🌟 What Makes LumiCare Different?
+
+LumiCare does not claim that every individual feature is completely new.
+
+Our innovation lies in **how the features work together**.
+
+| Traditional Approach   | LumiCare                                       |
+| ---------------------- | ---------------------------------------------- |
+| 📝 Track tasks         | 🧠 Understand workload                         |
+| 😊 Track mood          | 🔗 Connect emotions with responsibilities      |
+| ✅ Complete more tasks  | ⚖️ Rebalance workload                          |
+| 🧘 Separate self-care  | 🌿 Integrate recovery into workload management |
+| 🎮 Reward productivity | ✨ Reward recovery                              |
+| 🐾 Decorative mascot   | 🐻 Companion reflects user progress            |
+
+### Our key idea:
+
+> **Productivity should not come at the cost of recovery.**
+
+LumiCare creates one continuous experience connecting:
+
+**Workload → Pressure → Rebalancing → Recovery → Progress**
+
+---
+
+# 🎨 User Experience
+
+### Main Screens
+
+| Screen         | Purpose                                         |
+| -------------- | ----------------------------------------------- |
+| 🏠 **Home**    | See Lumi and your current state                 |
+| 💬 **Talk**    | Share your day naturally                        |
+| ⚖️ **Balance** | Understand and rebalance workload               |
+| 🌿 **Care**    | Complete recovery activities                    |
+| 👤 **Me**      | View progress, rewards and personal information |
+
+---
+
+
 # 🛠️ Tech Stack
 
 | Technology                    | Role                                |
@@ -286,6 +289,8 @@ The feedback helped us simplify the main user experience while keeping LumiCare'
 | ❤️ **Simulated Heart Rate**   | MVP wellbeing signal                |
 | 🚀 **Vercel**                 | Deployment                          |
 | 🐙 **GitHub**                 | Version control & collaboration     |
+
+<img width="8192" height="5314" alt="Supabase Client Tier Flow-2026-09-07-090547" src="https://github.com/user-attachments/assets/bd3bd2f0-6afa-458e-a441-a3472329d951" />
 
 ---
 
